@@ -1,0 +1,28 @@
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "product",
+  "brand": "HP ",
+  "name": "Laptop 256 ssd full hd",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFggIthrx_K9ZB7UxJM5miP7pfvI6h9v8c3w&s",
+  "description": "Second Hand Hp Laptop in Mumbai at ₹ 15,000 - ₹ 20,000 / Pc by B S Computers",
+  "aggregateRating": {
+    "@type": "aggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "45"
+  }
+}
+{
+  "@context": "http://www.schema.org",
+  "@type": "product",
+  "brand": "DELL ",
+  "name": "Laptop 256 ssd full hd",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFggIthrx_K9ZB7UxJM5miP7pfvI6h9v8c3w&s",
+  "description": "Second Hand Hp Laptop in Mumbai at ₹ 15,000 - ₹ 20,000 / Pc by B S Computers",
+  "aggregateRating": {
+    "@type": "aggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "45"
+  }
+}
+ </script>
